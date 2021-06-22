@@ -1,0 +1,23 @@
+{
+  "name": "maze-exit-finder",
+  "version": "1.0.0",
+  "description": "Algorithm finding an exit from the given maze",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'No test command'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ExposedCat/exit-from-maze.git"
+  },
+  "keywords": [
+    "maze",
+    "exit"
+  ],
+  "author": "ExposedCat",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/ExposedCat/exit-from-maze/issues"
+  },
+  "homepage": "https://github.com/ExposedCat/exit-from-maze#readme"
+}
